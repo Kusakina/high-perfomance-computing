@@ -19,6 +19,7 @@
 график времени:
 
 ![image](https://github.com/Kusakina/high-perfomance-computing/assets/74459357/40ef07da-bd77-40bb-bbbd-d1bed5efaf7d)
+
 график ускорения:
 
 ![image](https://github.com/Kusakina/high-perfomance-computing/assets/74459357/40b416f6-e32b-479c-b822-06d33fd0a063)
